@@ -1,0 +1,9 @@
+{
+  "name": "openwa-render-secure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protected OpenWA Render test",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
